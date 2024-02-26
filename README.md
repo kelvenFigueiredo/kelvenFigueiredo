@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kelvenFigueiredo
 - 👀 I’m interested in Software Engineer
-- 🌱 I’m currently learning FrontEnd 
+- 🌱 I’m currently learning FrontEnd with ReactJs
 - 📫 How to reach me kelven.de.figueiredo.leopoldo@gmail.com
 - 😄 Pronouns: Kelven
 
